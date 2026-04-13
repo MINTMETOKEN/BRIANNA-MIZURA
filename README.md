@@ -1,5 +1,27 @@
 
-## 🔍 Quick Search
+## 🔍 Quick Search <p align="center">
+
+<a href="#home">
+  <img src="https://img.shields.io/badge/Home-🏠-blue?style=for-the-badge" />
+</a>
+
+<a href="#front">
+  <img src="https://img.shields.io/badge/Front-⬆️-green?style=for-the-badge" />
+</a>
+
+<a href="#back">
+  <img src="https://img.shields.io/badge/Back-⬇️-red?style=for-the-badge" />
+</a>
+
+<a href="#menu">
+  <img src="https://img.shields.io/badge/Menu-📋-purple?style=for-the-badge" />
+</a>
+
+<a href="#category">
+  <img src="https://img.shields.io/badge/Category-📂-orange?style=for-the-badge" />
+</a>
+
+</p>
 - [Projects](#-projects)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)
   𐦐 - [Stats](#-stats)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
 - 
