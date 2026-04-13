@@ -1,4 +1,14 @@
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME1)
 
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME2)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME3)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME4)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME5)
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME6)
 ## 🔍 Quick Search
 - [Projects](#-projects)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)
   𐦐 - [Stats](#-stats)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
