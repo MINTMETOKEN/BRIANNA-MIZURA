@@ -1,19 +1,11 @@
-✅ Best GitHub-Friendly “Search Bar” Look
-You can add a fake styled search bar UI that links users to your repo search page:
-Markdown
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/search?q=">
-    <img src="https://img.shields.io/badge/Search-This%20Repository-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
-🚀 Better Internal Section Search (README Navigation)
-A better alternative is an internal quick-search menu using anchor links:
-Markdown
+
 ## 🔍 Quick Search
-- [Projects](#-projects)
-- [Stats](#-stats)
-- [Languages](#-languages)
+- [Projects](#-projects)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)
+- [Stats](#-stats)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
+- [Languages](#-languages)![Visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_REPO)
 - [Contact](#-contact)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME)
+
 Then create matching sections:
 Markdown
 ## 🚀 Projects
@@ -38,14 +30,6 @@ Markdown
   </a>
 </p>
 
-
-Simple README View Counter
-This is one of the most popular and stable badge counters for GitHub READMEs. �
-GitHub +1
-Markdown
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-🎨 Better Styled Version
-Markdown
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=for-the-badge)
 Example:
 Markdown
@@ -55,6 +39,8 @@ Markdown
 ![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITORS&color=0e75b6&style=flat)
 
 # Hi there 👋
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)![Visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_REPO)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge)
 
