@@ -1,9 +1,11 @@
 
 ## 🔍 Quick Search
 - [Projects](#-projects)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github&style=for-the-badge&logo=github&text=PROFILE+VIEWS)
-- [Stats](#-stats)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
+  𐦐 - [Stats](#-stats)![Visitors](https://vbr.nathanchung.dev/badge?page_id=TopDog.github)
+- 
 - [Languages](#-languages)![Visitors](https://vbr.nathanchung.dev/badge?page_id=YOUR_USERNAME.YOUR_REPO)
 - [Contact](#-contact)
+- 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=YOUR_USERNAME)
 
 Then create matching sections:
